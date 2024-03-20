@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@line/liff": "2.23.2",
-    "@sveltejs/adapter-cloudflare": "^4.2.0"
+    "@sveltejs/adapter-static": "^3.0.1"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "3.0.2",
